@@ -51,4 +51,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="webpackt" alt="webpack" width="80" height="80"/>
  
 </div>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sergey-Alex&theme=dark&sideLabels=EB2DD0&background=45%2C1712E300%2CEB5454)](https://git.io/streak-stats)
