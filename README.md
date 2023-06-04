@@ -4,11 +4,15 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/sergey-stroitelev-787803250/">
+<!--   <a href="https://www.linkedin.com/in/sergey-stroitelev-787803250/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" height='200%' alt="LinkedIn Badge"/>
-  </a>
+  </a> -->
+  
   <a href="https://vk.com/sergeyalex13">
   <img src="https://img.shields.io/badge/vk-blue?logo=vk&logoColor=white" alt="vk.com"/>
+  </a>
+   <a href="https://voronezh.hh.ru/resume/54183ae3ff0b092b690039ed1f74764d553865?hhtmFrom=resume_list">
+  <img src="https://img.shields.io/badge/hh-red?logo=hh&logoColor=white" alt="hh.com"/>
   </a>
   <a href="https://t.me/SergeyAlex_S">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white" alt="Telegram"/>
