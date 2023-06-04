@@ -26,7 +26,7 @@
 </h1>
 </div>
 <div>
- I am a Frontendk Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Voronezh.
+ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Voronezh.
   
  - :telescope: I’m working as a Frontend for building web applications.
 
