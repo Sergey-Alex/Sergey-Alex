@@ -25,3 +25,14 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
+<div align="center">
+ I am a Frontendk Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Voronezh.
+  
+ - :telescope: I’m working as a Frontend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on Codewars/FreeCodeCamp  and read tech articles.
+
+- :mailbox:How to reach me:  <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white" alt="Telegram"/>
+</div>
